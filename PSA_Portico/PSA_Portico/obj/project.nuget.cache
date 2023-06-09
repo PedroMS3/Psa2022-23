@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pIjMAZrY9X62SRP/h+/iXKAhO+RAcy3g9HcfXPUFDA0QyYoMnsa+nAXkda4cNYmcM5NEMjA5GVwYvDEkO1F6Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João\\source\\repos\\PSA_Portico\\PSA_Portico\\PSA_Portico.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\João\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
